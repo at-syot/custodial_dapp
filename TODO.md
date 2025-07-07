@@ -1,7 +1,7 @@
 ## TODO
 - deploy contract in go: DONE
 - interact contract in go: DONE
-- deep-drive into smart contract - layer
+- deep-drive into smart contract - layer: WORKING
 ---
 
 IPFS = InterPlantary File System
