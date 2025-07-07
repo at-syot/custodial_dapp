@@ -1,0 +1,17 @@
+time=2025-07-01T20:31:29.820-04:00 level=INFO msg=Configured api=signer "audit log"=audit.log
+time=2025-07-01T20:38:39.353-04:00 level=INFO msg=Version api=signer type=request metadata="{\"remote\":\"NA\",\"local\":\"NA\",\"scheme\":\"ipc\",\"User-Agent\":\"\",\"Origin\":\"\"}"
+time=2025-07-01T20:38:39.353-04:00 level=INFO msg=Version api=signer type=response data=6.1.0 error=<nil>
+time=2025-07-02T13:51:29.329-04:00 level=INFO msg=Configured api=signer "audit log"=audit.log
+time=2025-07-02T13:51:49.623-04:00 level=INFO msg=Version api=signer type=request metadata="{\"remote\":\"NA\",\"local\":\"NA\",\"scheme\":\"ipc\",\"User-Agent\":\"\",\"Origin\":\"\"}"
+time=2025-07-02T13:51:49.623-04:00 level=INFO msg=Version api=signer type=response data=6.1.0 error=<nil>
+time=2025-07-02T13:55:59.717-04:00 level=INFO msg=Version api=signer type=request metadata="{\"remote\":\"NA\",\"local\":\"NA\",\"scheme\":\"ipc\",\"User-Agent\":\"\",\"Origin\":\"\"}"
+time=2025-07-02T13:55:59.718-04:00 level=INFO msg=Version api=signer type=response data=6.1.0 error=<nil>
+time=2025-07-02T14:27:24.896-04:00 level=INFO msg=List api=signer type=request metadata="{\"remote\":\"NA\",\"local\":\"NA\",\"scheme\":\"ipc\",\"User-Agent\":\"\",\"Origin\":\"\"}"
+time=2025-07-02T14:27:44.667-04:00 level=INFO msg=List api=signer type=response data=[0x0Cb37B5aA14a35F96E1f1bdc8ADb4066c1042cFc]
+time=2025-07-02T14:31:04.327-04:00 level=INFO msg=List api=signer type=request metadata="{\"remote\":\"NA\",\"local\":\"NA\",\"scheme\":\"ipc\",\"User-Agent\":\"\",\"Origin\":\"\"}"
+time=2025-07-02T14:31:10.147-04:00 level=INFO msg=List api=signer type=response data="[0x0Cb37B5aA14a35F96E1f1bdc8ADb4066c1042cFc 0x5E21ec8b3b132885F04d66bdD737146025042D4c]"
+time=2025-07-02T14:31:15.682-04:00 level=INFO msg=List api=signer type=request metadata="{\"remote\":\"NA\",\"local\":\"NA\",\"scheme\":\"ipc\",\"User-Agent\":\"\",\"Origin\":\"\"}"
+time=2025-07-02T14:31:18.815-04:00 level=INFO msg=List api=signer type=response data="[0x0Cb37B5aA14a35F96E1f1bdc8ADb4066c1042cFc 0x5E21ec8b3b132885F04d66bdD737146025042D4c]"
+time=2025-07-02T14:37:00.243-04:00 level=INFO msg=Configured api=signer "audit log"=audit.log
+time=2025-07-02T14:37:09.633-04:00 level=INFO msg=Version api=signer type=request metadata="{\"remote\":\"NA\",\"local\":\"NA\",\"scheme\":\"ipc\",\"User-Agent\":\"\",\"Origin\":\"\"}"
+time=2025-07-02T14:37:09.633-04:00 level=INFO msg=Version api=signer type=response data=6.1.0 error=<nil>
